@@ -1,0 +1,1 @@
+# scrapy-FGOwiki-spider
